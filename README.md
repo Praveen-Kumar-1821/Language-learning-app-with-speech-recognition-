@@ -1,6 +1,6 @@
 ## Team Contributions
 
 - Praveen Rangisetty – Database Design & Supabase Management
-- Hima Sri – Frontend Development
-- Subramanyam – Backend Development
+- Hima Sri – Backend Development
+- Subramanyam – Frontend Development
 - Khaja – Integration & Support
